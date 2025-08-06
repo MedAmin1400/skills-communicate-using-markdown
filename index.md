@@ -10,3 +10,7 @@
 ```Python
 print("Hello World! the only line of code I could remeber correctly right now ")
 ```
+
+- [ ] Task 1.0000.1.0.1
+- [X] Let's say I finished whatever this is
+- [X] who said I didn't finish this one also
