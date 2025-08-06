@@ -7,6 +7,6 @@
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
-'''Python
+```Python
 print("Hello World! the only line of code I could remeber correctly right now ")
-'''
+```
